@@ -1,6 +1,6 @@
 # Projeto Final - Tailwind CSS (Origamid) 🚀
 
-![Preview do Projeto](projeto_forest.jpg)
+![Preview do Projeto](projeto_forest.jpeg)
 
 > 🔗 **[Clique aqui para ver o projeto rodando ao vivo](COLE-AQUI-O-LINK-DO-GITHUB-PAGES)**
 
