@@ -2,7 +2,7 @@
 
 ![Preview do Projeto](projeto_forest.jpeg)
 
-> 🔗 **[Clique aqui para ver o projeto rodando ao vivo](COLE-AQUI-O-LINK-DO-GITHUB-PAGES)**
+> 🔗 **[Clique aqui para ver o projeto rodando ao vivo]([COLE-AQUI-O-LINK-DO-GITHUB-PAGES](https://brunosantosdesign.github.io/projeto-final-tailwind-origamid/))**
 
 ## 💻 Sobre o Projeto
 
