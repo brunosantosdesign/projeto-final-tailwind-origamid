@@ -30,4 +30,4 @@ Este projeto foi desenvolvido como trabalho final do curso completo de **Tailwin
 
 1. Clone este repositório:
    ```bash
-   git clone COLE-AQUI-O-LINK-DO-SEU-REPOSITORIO
+   git clone https://github.com/brunosantosdesign/projeto-final-tailwind-origamid.git
